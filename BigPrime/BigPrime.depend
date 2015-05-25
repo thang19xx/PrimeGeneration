@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1432518943 source:e:\ntl\bigprime\main.cpp
+	<iostream>
+	<bitset>
+	<gmpxx.h>
+	<time.h>
+	<math.h>
+	<fstream>
+
